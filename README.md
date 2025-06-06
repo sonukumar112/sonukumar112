@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"/>
 
 ### 🧠 About Me
 - 🎓 I'm a final-year undergrad in **Computer Science and Engineering**
